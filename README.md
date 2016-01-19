@@ -7,7 +7,7 @@ The program uses a command-line interface.
 
 The interface for encoding a data file inside a bitmap file takes three filenames as arguments:
 
-steg <bmpfile> <datafile> <outputfile>
+steg &lt;bmpfile> <datafile> <outputfile>
 
 In this case, <bmpfile> is a Windows bitmap file, <datafile> is the data file, and <outputfile> is the modified bitmap that contains the hidden message. 
 
